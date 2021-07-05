@@ -2,6 +2,7 @@
   <!-- eslint-disable-next-line vue/max-attributes-per-line -->
   <div class="container" >
     <div class="row">
+      <img alt="Vue logo" src="../assets/logo.png" width="25%">
       <div class="col-sm-10">
         <h1>Pessoas</h1>
         <hr><br><br>
